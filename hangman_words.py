@@ -1,0 +1,19 @@
+word_list = [
+'zodiac',
+'emperor',
+'horizon',
+'collage',
+'squid',
+'lark',
+'crypto',
+'encryption',
+'hacked',
+'immobile',
+'blizzard',
+'shelter',
+'drastic',
+'minority',
+'cobalt',
+'mug',
+'breed'
+]
